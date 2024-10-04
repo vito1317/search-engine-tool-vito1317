@@ -1,11 +1,11 @@
 # 項目說明
-https://github.com/vito1317/search-engine-tool-vito
+https://github.com/vito1317/search-engine-tool-vito1317
 
 項目的 Python 版本。原项目使用 Node + Puppeteer，Python 版本使用 Selenium。
 
 ## 安裝
 ```bash
-pip install search-engine-tool-vito
+pip install search-engine-tool-vito1317
 ```
 #使用 
 ```python 
