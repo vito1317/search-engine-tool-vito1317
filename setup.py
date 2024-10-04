@@ -8,13 +8,13 @@ setup(
         "selenium"
     ],
 
-    author="bluefrog",
+    author="vito",
     author_email="vito95311@gmail.com",
     description="搜索引擎API Bing / Google / Yahoo ",
-    long_description=open("README.md").read(),
+    long_description=open("README.md", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
     license="MIT",
-    url="https://github.com/freewu/search-engine-tool",
+    url="https://github.com/vito1317/search-engine-tool-vito",
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Intended Audience :: Developers",
