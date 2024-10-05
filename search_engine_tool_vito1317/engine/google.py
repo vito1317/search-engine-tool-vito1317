@@ -9,6 +9,7 @@ def search(keyword, config={}):
     options = Options()
     # 初始化瀏覽器
     driver = webdriver.Chrome(options=options)
+    driver.minimize_window()
     # 訪問網頁
     query = {
         "q": keyword,
@@ -51,6 +52,4 @@ def search(keyword, config={}):
     driver.close()
 
     return result
-
-
 
