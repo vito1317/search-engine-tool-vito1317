@@ -14,7 +14,7 @@ setup(
     long_description=open("README.md", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
     license="MIT",
-    url="https://github.com/vito1317/search-engine-tool-vito",
+    url="https://github.com/vito1317/search-engine-tool-vito1317",
     classifiers=[
         "Development Status :: 3 - Alpha",
         "Intended Audience :: Developers",
