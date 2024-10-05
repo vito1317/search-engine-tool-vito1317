@@ -10,6 +10,7 @@ def search(keyword, config={}):
     #options.add_argument("--headless")
     # 初始化浏览器
     driver = webdriver.Chrome(options=options)
+    driver.minimize_window()
     # 访问网页
     query = {"q": keyword}
     # print("https://www.bing.com/search?form=QBRE&%s&cc=US" % urlencode(query))
