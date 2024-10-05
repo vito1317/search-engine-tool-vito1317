@@ -35,8 +35,8 @@ Bing Google (需要调用方自身能够访问) Yahoo
 ```
 # Todo 
  ``` 
- 1 处理人机验证
- 2 支持翻页参数
+ 1 處理人機驗證
+ 2 支持翻頁參數
  3 wikipedia 支持
 ```
  # search-engine-tool-vito1317
