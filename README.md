@@ -1,7 +1,7 @@
 l# 項目說明
 https://github.com/vito1317/search-engine-tool-vito1317
 
-項目的 Python 版本。原项目使用 Node + Puppeteer，Python 版本使用 Selenium。
+項目的 Python 版本。原項目使用 Node + Puppeteer，Python 版本使用 Selenium。
 
 ## 安裝
 ```bash
@@ -31,7 +31,7 @@ if __name__ == '__main__':
 ``` 
 # 支持搜尋引擎 
 ```
-Bing Google (需要调用方自身能够访问) Yahoo 
+Bing Google (需要調適方自身能夠訪問) Yahoo 
 ```
 # Todo 
  ``` 
