@@ -2,7 +2,7 @@
 https://github.com/vito1317/search-engine-tool-vito1317
 
 項目的 Python 版本。原項目使用 Node + Puppeteer，Python 版本使用 Selenium + requests + BeautifulSoup4。
-
+### 此搜索引擎Api由 vito 柯瑋宸發布
 ## 安裝
 ```bash
 pip install search-engine-tool-vito1317
@@ -51,4 +51,5 @@ Bing Google (需要調適方自身能夠訪問) Yahoo
  2 支持翻頁參數
  3 wikipedia 支持
 ```
+ 
  # search-engine-tool-vito1317
