@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="search-engine-tool-vito1317",
-    version="0.5.2",
+    version="0.6.3",
     packages=find_packages(),
     install_requires=[
         "selenium"
