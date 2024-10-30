@@ -1,9 +1,9 @@
-from search_engine_tool import bing
+from search_engine_tool_vito1317 import bing
 
 
 def test_bing():
     try:
-        data = bing.search("深圳天气")
+        data = bing.search("台灣天氣")
         for d in data:
             print(d)
     except Exception as e:
