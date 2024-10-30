@@ -23,7 +23,7 @@ if __name__ == '__main__':
 ```python 
 from search_engine_tool_vito1317 import google
 def test_google():
-    try: data = google.search("台灣天氣", request) 
+    try: data = google.search("台灣天氣", "request") 
         for d in data: 
             print(d) 
     except Exception as e: 
