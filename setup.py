@@ -5,7 +5,7 @@ setup(
     version="0.6.9",
     packages=find_packages(),
     install_requires=[
-        "selenium"
+        "selenium",
         "BeautifulSoup4"
     ],
 
